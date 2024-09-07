@@ -21,7 +21,7 @@ sites:
       - townsnic
 
 status-website:
-  theme: ocean
+  theme: dark
   baseUrl: /camacholab-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
