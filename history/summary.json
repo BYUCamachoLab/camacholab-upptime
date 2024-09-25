@@ -40,17 +40,19 @@
     "url": "https://camacholab.ee.byu.edu/qrng/binary/10",
     "icon": "https://icons.duckduckgo.com/ip3/camacholab.ee.byu.edu.ico",
     "slug": "qrng-hardware",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 70,
-    "timeDay": 62,
-    "timeWeek": 65,
-    "timeMonth": 70,
-    "timeYear": 70,
-    "dailyMinutesDown": {}
+    "time": 69,
+    "timeDay": 50,
+    "timeWeek": 62,
+    "timeMonth": 69,
+    "timeYear": 69,
+    "dailyMinutesDown": {
+      "2024-09-25": 0
+    }
   }
 ]
