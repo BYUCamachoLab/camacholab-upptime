@@ -1,7 +1,7 @@
 url: https://camacholab.ee.byu.edu/qrng/binary/10
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-03T17:38:29.596Z
+status: up
+code: 200
+responseTime: 61
+lastUpdated: 2025-01-03T17:48:59.153Z
 startTime: 2024-09-06T23:19:46.687Z
 generator: Upptime <https://github.com/upptime/upptime>
