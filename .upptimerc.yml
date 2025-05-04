@@ -12,13 +12,11 @@ sites:
     __dangerous__insecure: true
     assignees:
       - sequoiap
-      - townsnic
   - name: QRNG Hardware
     url: https://camacholab.ee.byu.edu/qrng/binary/10
     __dangerous__insecure: true
     assignees:
       - sequoiap
-      - townsnic
 
 status-website:
   baseUrl: /camacholab-upptime
